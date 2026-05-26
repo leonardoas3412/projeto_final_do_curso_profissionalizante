@@ -1,0 +1,25 @@
+input {
+  padding: 8px 13px;
+  margin: 3px 0;
+  border-style: soldid;
+  cursor: pointer;
+  width: 90%;
+}
+
+label{
+	font-family: arial;
+}
+
+button {
+  background-color: #008B8B;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
